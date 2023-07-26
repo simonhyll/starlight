@@ -1,5 +1,11 @@
 # @astrojs/starlight
 
+## 0.5.7
+
+### Patch Changes
+
+- [#381](https://github.com/withastro/starlight/pull/381) [`6e62909`](https://github.com/withastro/starlight/commit/6e629095e78da4bfd422cd0a9cd9beb0d85d9a1a) Thanks [@lorenzolewis](https://github.com/lorenzolewis)! - Preserve order of `social` config in navbar
+
 ## 0.5.6
 
 ### Patch Changes
@@ -313,8 +319,8 @@
 
   ```json
   {
-    "search.label": "Suchen",
-    "search.shortcutLabel": "(Drücke / zum Suchen)"
+  	"search.label": "Suchen",
+  	"search.shortcutLabel": "(Drücke / zum Suchen)"
   }
   ```
 
